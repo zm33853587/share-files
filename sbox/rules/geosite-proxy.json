@@ -2,7 +2,7 @@
 	"version": 1,
 	"rules": [
 		{
-			"domain_suffix": [
+			"domain": [
 				"3dns-1.adobe.com",
 				"3dns-2.adobe.com",
 				"3dns-3.adobe.com",
@@ -501,7 +501,9 @@
 				"wwis-dubc1-vip99.adobe.com",
 				"www-cdn.icloud.com.akadns.net",
 				"zeenews-fonts.s3.amazonaws.com",
-				"ztedevices.com",
+				"ztedevices.com"
+			],
+			"domain_suffix": [
 				".000webhost.com",
 				".01.org",
 				".02weqj32.com",
