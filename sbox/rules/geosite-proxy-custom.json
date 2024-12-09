@@ -1,1 +1,10 @@
-
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain_suffix": [
+				"example-test-proxy.com"
+			]
+		}
+	]
+}
