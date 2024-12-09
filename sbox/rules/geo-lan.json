@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain_regex": [
+				"localhost"
+      ]
+		},{
+				"ip_is_private": true
+		}
+	]
+}
