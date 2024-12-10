@@ -2,11 +2,9 @@
 	"version": 1,
 	"rules": [
 		{
-			"domain_regex": [
+			"domain": [
 				"localhost"
-      ]
-		},{
-				"ip_is_private": true
+			]
 		}
 	]
 }
