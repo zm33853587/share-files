@@ -20,9 +20,7 @@
         "fc00::/7",
         "fe80::/10",
         "ff00::/8"
-      ]
-	},
-    {
+      ],
       "domain": [
         "instant.arubanetworks.com",
         "setmeup.arubanetworks.com",
@@ -155,9 +153,7 @@
         "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
         "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"
       ]
-    }
-    ,{
-      "domain_suffix": [
+      ,"domain_suffix": [
         ".lan",
         ".localdomain",
         ".example",
