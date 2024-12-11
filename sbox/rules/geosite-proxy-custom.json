@@ -3,9 +3,11 @@
 	"rules": [
 		{
 			"domain": [
+				"ipinfo.io",
 				"example-test-proxy.com"
 			],
 			"domain_suffix": [
+				".ipinfo.io",
 				".example-test-proxy.com"
 			]
 		}
