@@ -4,10 +4,18 @@
 		{
 			"domain": [
 				"ipinfo.io",
+				"abc1618.xyz",
+				"lantu8.com",
+				"wine168.shop",
+				"we-medias.shop",
 				"example-test-proxy.com"
 			],
 			"domain_suffix": [
 				".ipinfo.io",
+				".abc1618.xyz",
+				".lantu8.com",
+				".wine168.shop",
+				".we-medias.shop",
 				".example-test-proxy.com"
 			]
 		}
