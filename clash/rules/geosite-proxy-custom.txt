@@ -1,0 +1,9 @@
+payload: 
+  - '+.ipinfo.io'
+  - '+.abc1618.xyz'
+  - '+.lantu8.com'
+  - '+.wine168.shop'
+  - '+.we-medias.shop'
+  - '+.tuiwo.cc'
+  - '+.freedidi.com'
+  - '+.example-test-proxy.com'
