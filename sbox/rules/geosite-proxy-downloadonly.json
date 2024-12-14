@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain_suffix": [
+				"cdn.jsdelivr.net",
+				"download.jetbrains.com",
+				".python.org",
+				"raw.githubusercontent.com"
+			]
+		}
+	]
+}

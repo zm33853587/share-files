@@ -1,0 +1,5 @@
+payload: 
+  - '+.cdn.jsdelivr.net'
+  - '+.python.org'
+  - '+.download.jetbrains.com'
+  - '+.raw.githubusercontent.com'

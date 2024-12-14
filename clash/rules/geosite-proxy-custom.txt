@@ -6,4 +6,7 @@ payload:
   - '+.we-medias.shop'
   - '+.tuiwo.cc'
   - '+.freedidi.com'
+  - '+.launchdarkly.com'
+  - '+.nr-data.net'
+  - '+.newrelic.com'
   - '+.example-test-proxy.com'
