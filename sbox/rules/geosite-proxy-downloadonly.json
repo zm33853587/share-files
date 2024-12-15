@@ -6,6 +6,7 @@
 				"cdn.jsdelivr.net",
 				"download.jetbrains.com",
 				".python.org",
+				".pypi.org",
 				"raw.githubusercontent.com"
 			]
 		}

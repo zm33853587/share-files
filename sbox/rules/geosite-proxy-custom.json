@@ -4,6 +4,12 @@
 		{
 			"domain": [
 				"ipinfo.io",
+				"cloudflare.dev",
+				"esm.sh",
+				"opencv.org",
+				"postman.com",
+				"getpostman.com",
+				"clashverge.dev",
 				"abc1618.xyz",
 				"lantu8.com",
 				"wine168.shop",
@@ -13,10 +19,17 @@
 				"launchdarkly.com",
 				"nr-data.net",
 				"newrelic.com",
+				"www.msftconnecttest.com",
 				"example-test-proxy.com"
 			],
 			"domain_suffix": [
 				".ipinfo.io",
+				".cloudflare.dev",
+				".esm.sh",
+				".opencv.org",
+				".postman.com",
+				".getpostman.com",
+				".clashverge.dev",
 				".abc1618.xyz",
 				".lantu8.com",
 				".wine168.shop",
@@ -26,6 +39,7 @@
 				".launchdarkly.com",
 				".nr-data.net",
 				".newrelic.com",
+				".msftconnecttest.com",
 				".example-test-proxy.com"
 			]
 		}
