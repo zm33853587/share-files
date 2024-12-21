@@ -1,6 +1,8 @@
 payload: 
   - '+.ipinfo.io'
   - '+.cloudflare.dev'
+  - '+.maven.org'
+  - '+.gradle.org'
   - '+.esm.sh'
   - '+.opencv.org'
   - '+.postman.com'

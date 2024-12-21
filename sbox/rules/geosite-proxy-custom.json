@@ -5,6 +5,8 @@
 			"domain": [
 				"ipinfo.io",
 				"cloudflare.dev",
+				"maven.org",
+				"gradle.org",
 				"esm.sh",
 				"opencv.org",
 				"postman.com",
@@ -25,6 +27,8 @@
 			"domain_suffix": [
 				".ipinfo.io",
 				".cloudflare.dev",
+				".maven.org",
+				".gradle.org",
 				".esm.sh",
 				".opencv.org",
 				".postman.com",
