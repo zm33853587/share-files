@@ -4,3 +4,9 @@ payload:
   - '+.pypi.org'
   - '+.download.jetbrains.com'
   - '+.raw.githubusercontent.com'
+  - '+.apache.org'
+  - '+.mvnrepository.com'
+  - '+.sonatype.com'
+  - '+.gradle.org'
+  - '+.dl.google.com'
+

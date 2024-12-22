@@ -2,12 +2,29 @@
 	"version": 1,
 	"rules": [
 		{
-			"domain_suffix": [
+			"domain": [
 				"cdn.jsdelivr.net",
 				"download.jetbrains.com",
+				"python.org",
+				"pypi.org",
+				"apache.org",
+				"mvnrepository.com",
+				"sonatype.com",
+				"gradle.org",
+				"dl.google.com",
+				"raw.githubusercontent.com"
+			],
+			"domain_suffix": [
+				".cdn.jsdelivr.net",
+				".download.jetbrains.com",
 				".python.org",
 				".pypi.org",
-				"raw.githubusercontent.com"
+				".apache.org",
+				".mvnrepository.com",
+				".sonatype.com",
+				".gradle.org",
+				".dl.google.com",
+				".raw.githubusercontent.com"
 			]
 		}
 	]
