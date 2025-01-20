@@ -35,4 +35,5 @@ payload:
   - '+.nr-data.net'
   - '+.newrelic.com'
   - '+.msftconnecttest.com'
+  - '+.gjrvpf.com'
   - '+.example-test-proxy.com'

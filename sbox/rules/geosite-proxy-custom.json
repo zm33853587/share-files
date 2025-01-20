@@ -39,6 +39,7 @@
 				"nr-data.net",
 				"newrelic.com",
 				"www.msftconnecttest.com",
+				"gjrvpf.com",
 				"example-test-proxy.com"
 			],
 			"domain_suffix": [
@@ -78,6 +79,7 @@
 				".nr-data.net",
 				".newrelic.com",
 				".msftconnecttest.com",
+				".gjrvpf.com",
 				".example-test-proxy.com"
 			]
 		}
